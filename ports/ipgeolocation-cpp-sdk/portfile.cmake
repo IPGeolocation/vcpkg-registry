@@ -4,7 +4,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO IPGeolocation/ip-geolocation-api-cpp-sdk
     REF v1.0.0
-    SHA512 b7b8e6a694330e8dcea4103336ab28803522ea96f4aa910a6a00eb81d48feeb727f769166cfc1c0a311bcc95f4f8e6b64d744093d922ee26b2c7f8dc08053993
+    SHA512 546be6ee2f51a0a2e9c7a5fa6940cee21238277a5802ab0599b5a7e56f9f8e38c6b8e275efbf4c06a5bc89487e09e70268d6b63ea45088365abc1089e9c70c1c
     HEAD_REF main
 )
 
